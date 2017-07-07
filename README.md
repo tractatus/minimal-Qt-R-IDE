@@ -1,4 +1,4 @@
-# QtR pronounced Cuter
+# QtR (/kjuːtr/ "cuter")
 
 is a minimal Qt R IDE. meaning you cna script R code using RInside from your Qt app.
 
